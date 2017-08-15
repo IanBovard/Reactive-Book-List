@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 const BookListAppTitle = ({ appTitle }) => <h3>{ appTitle }</h3>
 
